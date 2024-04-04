@@ -12,7 +12,13 @@ Export the document to [NoteSync](https://github.com/techymt/NoteSync), and you 
 
 ## Built With
 
-- Frontend: **NextJS**
-- Database, Cloud Storage, and Authentication: **Supabase**
-- Backend: **Flask**
-- LLM: **Mixtral 8x7b**
+-   Frontend: **NextJS**
+-   Database, Cloud Storage, and Authentication: **Supabase**
+-   Backend: **Flask**
+-   LLM: **Mixtral 8x7b**
+
+## Contributors
+
+-   [Shantanu Wable](https://github.com/shxntanu)
+-   [Mustafa Trunkwala](https://github.com/techymt)
+-   [Tejas Thorat](https://github.com/tejaspthorat)
