@@ -1,7 +1,7 @@
 ## Generating Supabase Database Types
 
 ```
-npx supabase gen types typescript --project-id jnqkswabjjcrpkmvdama > src/lib/supabase/database.types.ts
+npx supabase gen types typescript --project-id <project_id> > src/supabase/database.types.ts
 ```
 
 ## Supabase Auth
