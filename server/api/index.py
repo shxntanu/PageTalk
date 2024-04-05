@@ -140,6 +140,9 @@ def encode_query(user_query, embedder):
 app = Flask(__name__)
 CORS(app)
 
+@app.route('/')
+def home():
+    return 'Home Route'
 
 @app.route('/embed', methods=['POST'])
 def submit_url():
