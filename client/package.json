@@ -37,7 +37,6 @@
         "@react-pdf-viewer/core": "^3.6.0",
         "@react-pdf-viewer/default-layout": "^3.6.0",
         "@react-pdf/renderer": "^3.1.13",
-        "@reduxjs/toolkit": "^2.0.1",
         "@supabase/auth-helpers-nextjs": "^0.8.7",
         "@supabase/supabase-js": "^2.39.2",
         "@tanstack/react-table": "^8.11.3",
@@ -80,11 +79,9 @@
         "tailwindcss": "3.3.3",
         "tailwindcss-animate": "^1.0.7",
         "typescript": "5.2.2",
-        "zod": "^3.22.4",
-        "zustand": "^4.4.7"
+        "zod": "^3.22.4"
     },
     "devDependencies": {
-        "@types/react-lottie": "^1.2.8",
         "cypress": "^13.6.2",
         "next": "^14.0.4",
         "supabase": "^1.127.4"
