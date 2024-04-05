@@ -3,11 +3,9 @@
 import { useEffect, useState } from "react";
 import { createClientComponentClient } from "@supabase/auth-helpers-nextjs";
 import { useRouter } from "next/navigation";
-
 import { useAppContext } from "@/state/appState";
-import useDocStore from "@/zustand/docs/store";
 import { clearLocalStorage } from "@/config/hooks/localStorageControl";
-import { Home, Upload, Folder } from "lucide-react";
+import { Home, Upload } from "lucide-react";
 
 import {
     Menubar,
