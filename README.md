@@ -10,6 +10,10 @@ Export the document to [NoteSync](https://github.com/techymt/NoteSync), and you 
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1jcnB3Y2Ezdjlhd2podHVrZ2hneG9lY292c2VnZHZpdXR2bGpkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orifaQEOagjYJ1EXe/giphy.gif" height="250px">
 </div>
 
+# Demo
+
+[Demo.webm](https://github.com/shxntanu/PageTalk/assets/97496261/cbb7bdd1-15d2-41e4-bc76-455a77f436ca)
+
 ## Built With
 
 -   Frontend: **NextJS**
