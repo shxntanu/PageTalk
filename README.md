@@ -39,7 +39,12 @@ Export the document to [NoteSync](https://github.com/techymt/NoteSync), and you 
 8. For the backend, run the following commands:
     ```bash
     cd backend
+    
+    python3 -m venv env
+    source env/bin/activate
+
     pip install -r requirements.txt
+
     python3 server.py
     ```
     That will get your backend running.
